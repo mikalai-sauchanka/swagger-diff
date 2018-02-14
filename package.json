@@ -59,7 +59,7 @@
     "lodash.zipobject": "^3.0.0",
     "semver": "^5.0.3",
     "swagger-parser": "^3.3.0",
-    "json-schema-ref-parser": "zallek/json-schema-ref-parser#v1",
+    "json-schema-ref-parser": "^4.1.0",
     "extend": "^3.0.0"
   },
   "devDependencies": {
